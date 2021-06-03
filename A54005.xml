@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Penalty for false verdicts and the remedy for parties grieved thereby, as it is by law established</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54005</idno><idno type="EEBO-CITATION">10759117</idno>
+  <idno type="VID">45694</idno>
+  <idno type="EEBO-PROQUEST">2240873966</idno>
+  
+            <idno type="STC">Wing P1135A</idno>
+            <idno type="STC">ESTC R28784</idno>
+            <idno type="OCLC">10759117</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Penalty for false verdicts and the remedy for parties grieved thereby, as it is by law established</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgments --  England --  Law and legislation.</term>
+               <term type="topical_term">Verdicts --  England --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:45694:1"/>
+            <pb n="1" facs="tcp:45694:1"/>
+            <head>THE PENALTY FOR False Verdicts, AND <hi>The</hi> REMEDY <hi>for Parties greived thereby, as it is by Law Establish'd.</hi>
+            </head>
+            <p>FOrasmuch as the punishments of Jury-Men that give untrue Verdicts, lye as it were absconded in the Crowd of the large Volums of the Law and Statutes of this Realm: as also the Re<g ref="char:EOLhyphen"/>medy and Satisfaction the Law gives the Party greiv'd by such false Verdicts. That it's scarce known but to few of the Professors of the Law only: which emboldens Corrupt Men to sin in that sort without check and without any regard to Evidence; whereby too frequently, poor injur'd Men must lye under the wrong, through ignorance of what provision the Wisdome and Justice of the Law hath made in such Cases. It may be therefore a great means to prevent such mischeifs for the future to have the Law touching false Verdicts briefly and singly publisht. That standing by it self, it may be Obvious to the sight of every man.</p>
+            <p>When any matter of Controversie doth arise between party and party, he that apprehends himself Injur'd, hath liberty to apply himself to some Court of Judicature for his Redress, and those Courts for the most part, for tryal of and finding out the Truth of the point in Issue between the Parties in most matters of Fact, that is, when the question is whether such a thing be done or not done, Do appoint Twelve supposed honest Men, who are Sworn to give a true Verdict, that is, to make a Report upon Oath unto the Court how they find it according to Evidence.</p>
+            <p>This sort of Tryal by Twelve Men is very antient, and may be the best sort of Tryal: as being the Least subject to Corruption: it being formerly not so easie a matter to Corrupt Twelve Men as one; but now we find the Proverb often verified in Jury-Men, <hi>That one Scabby Sheep will infect a whole flock,</hi> get but one subtle Cunning fellow in the pack and your busi<g ref="char:EOLhyphen"/>ness
+<pb n="2" facs="tcp:45694:2"/> is done. Let the Evidence be what it will, Let the Counsel say what they will, that this is Law or not Law: Nay let the Judge give what dire<g ref="char:EOLhyphen"/>ction he will, this Fellow will sway all the rest and make them Consent to a Verdict as he will himself, and against the Evidence and Equity of the matter. For prevention of which evil it is ordain'd by the Statute of 23▪ of <hi>H. 8. ch.</hi> 3. That upon every untrue Verdict given between Party and Party in any plaint, Sute or Demand, before any Judges of Record, where the thing in demand▪ and Verdict thereupon given, extendeth to 40 <hi>l,</hi> and concerneth not the Jeopardy of Mans life, the Party greived by such untrue Verdict shall have a writ of Attaint against every Person so giving an untrue Verdict, and against the Party that shall have Judgment upon the same Verdict, and it shall be try'd by a Grand-Jury of 24 Fre<g ref="char:EOLhyphen"/>holders that hav<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Least 20 Marks <hi>per Annum,</hi> out of antient demean. And if these find that the petty Jury gave an untrue Verdict, that is, o<g ref="char:EOLhyphen"/>therwise than according to the Evidence there given they ought to have done, every of such Jury as gave such untrue Verdict shall forfeit 20 <hi>l.</hi> a piece. Whereof one Moiety shall be to the King, and the other Moiety shall be to the Party that sueth, and further they shall make Fine and Ransome according to the discretion of the Justices, before whom it shall be found to be a false Verdict, according to their several offences, defaults and sufficiencies of their Estates: and they never after to be in any Evi<g ref="char:EOLhyphen"/>dence, nor their Oath accepted in any Court, and the Party greived to be restor'd to what he Lost, with his reasonable Costs and Damages.</p>
+            <p>The like Remedy is in case the Debt or Damage be under 40 <hi>l.</hi> saving that the Grand-Jury need not have above 5. marks a peice <hi>per annum,</hi> and the Jury that gave the untrue Verdict, to forfeit but 5. <hi>pound</hi> a man.</p>
+            <p>This Statute at first making was but Temporary, but the Parliament finding it a necessary Law, by a Statute of the <hi>13th,</hi> of <hi>Eliz. ch. 25th.</hi> it was made Perpetual.</p>
+            <p>There is another Statute of the <hi>11th</hi> of <hi>Hen. 7th. ch. 21st.</hi> and another of the <hi>37th</hi> of <hi>Hen. 8th. ch. 5th.</hi> touching false Verdicts in the Courts of the City of <hi>London,</hi> which differ in some small Circumstances only from that of <hi>23th. Hen. 8th,</hi> which those that have occasion may repair to for their information; they being too long to be inserted here.</p>
+            <p>These latter Statutes have much mitigated the penalty in this Case of what it was by the Common Law. For before these Statutes, the pun<g ref="char:EOLhyphen"/>nishment<note place="margin">
+                  <hi>Cook</hi> L. 294. b.</note> was as followeth. 1. They were never to be admitted as a Witness or Juror ever after. 2. They forfeited all their Goods, and Chat<g ref="char:EOLhyphen"/>tels. 3. All their Lands were to be seized into the King's hands. 4. Their Wives and Children were to be cast out of Doors. 5. Their Trees were to be rooted up. 6. Their Meadows were to be Plowed. 7. Their bodies were to be cast into Prison. So odious was this sort of offence in the Eye of the Common Law: And to say the truth, the penalty, as now it is, is of the least, and deserves rather to be equal to the punishment of a Felon; for they merit as well to be hang'd, especially the Ring-Leaders of those, that by untrue verdicts take from a Man 200 <hi>l.</hi> as he that out of necessity Robs a Man of forty shillings.</p>
+            <p>The Law hath this further provision for parties injured by untrue Ver<g ref="char:EOLhyphen"/>dicts,<note place="margin">F. N. 106.</note>
+               <pb n="3" facs="tcp:45694:2"/> that if a Man be condemned by such a Verdict in debt or damages, and be taken in Execution; and after sues an Attaint against the Jury, he shall have a special Writ to the Justices, who Granted the Execution, to let him out to Bail upon sureties, that if the Attaint pass against him, he shall render himself again to Prison, or to satisfie the debt or duty.</p>
+            <p>By the Statute of the 1. <hi>Ed.</hi> 3. A Man shall have an Attaint of damages before Execution.</p>
+            <p>If the Plaintiff in Attaint upon false Verdict be Non-sute or discontinue his Sute, or it goes against him, he is to make Fine and Ransome according to the discretion of the Justices. And they usually take their measures therein according to the Cause the Party had to bring his Attaint.</p>
+            <p>The main difficulty upon an Attaint of false Verdict is, to make exact proof of what Evidence was given at the Tryal where the Verdict was given. For a true Repetition of that Evidence must be made, and no other Evidence can be admitted upon the Attaint, but what was given at the first Tryal. Therefore it is very requisite that all Evidence at Tryals should be Recorded in Case, where the Evidence is, by Liveing Witnesses: But if the Evidence be by Depositions out of Chancery, there it will ea<g ref="char:EOLhyphen"/>sily be made appear, for the self same may be produc'd again.</p>
+            <p>Having hinted the Penalty of this Villainous offence, and the Remedy of the Party greived thereby, to the end he knowing there is such a Re<g ref="char:EOLhyphen"/>medy, may upon occasion seek after the same from more Copious instru<g ref="char:EOLhyphen"/>ctions, the Author concludes with this Advice to all such whose misfortunes it may be to be joyn'd with evil Men upon Juries, that they stand it out rather than Consent to give a Verdict, contrary to Evidence. For ac<g ref="char:EOLhyphen"/>cording to that they by their Oath ought to Act: and not according to their fancy grounded upon some other information. For the words of their Oath is to this effect, <hi>Ye shall well and truly try the Issue in variance, between the Parties, and a true Verdict give according to your Evidence,</hi> so help you God.</p>
+            <p>The only inconvenience that can befal a man, if he refuses to be Im<g ref="char:EOLhyphen"/>pos'd upon to give a Verdict contrary to Evidence, is that all the Jury be kept up in a Room without Fire or Candle, Meat or Drink, till they Agree, unless by the Judges leave; but this seldom happens, unless some of the Jury be very Resolute for, and others against Right, and then it's u<g ref="char:EOLhyphen"/>sual to have a Jury▪ with-drawn by consent of Parties, and the Tryal put off to another Jury: those that will not rather do so than consent to an evil Verdict, ought to be punish'd severely: for such Men bring a scandal upon the Law and the Professors of it. But the Law is good, if Lawfully us'd.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
